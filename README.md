@@ -3,9 +3,8 @@
 
 Tool for VSCode [LiveShare](https://github.com/MicrosoftDocs/live-share).
 
-Create webpage with LiveShare link, and restart server if link is dead.
+Create webpage with LS link, and restart server if link is dead.
 
-Sample page :
 
 > ![Webpage](https://i.imgur.com/R6tPTKI.png)
 
